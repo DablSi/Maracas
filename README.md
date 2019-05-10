@@ -1,2 +1,2 @@
 # Maracas
-A simple maracas for small kids
+A simple maracas app for small kids
